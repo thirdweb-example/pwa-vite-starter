@@ -1,0 +1,22 @@
+{
+  "short_name": "pwa-vite-typescript-starter",
+  "name": "PWA vite app",
+  "icons": [
+    {
+      "src": "./images/thirdweb-logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/thirdweb-logo.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
